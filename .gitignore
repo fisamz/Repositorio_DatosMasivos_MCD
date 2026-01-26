@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Datos (CSV, Parquet, bases)
+data/
+*.csv
+*.parquet
+*.sqlite
+
+# Mac
+.DS_Store
+
+# Entornos
+__pycache__/
+.ipynb_checkpoints/
